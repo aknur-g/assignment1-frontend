@@ -28,20 +28,32 @@ I added different heading levels and paragraphs to organize the information
 on my webpage. The page includes my name, group, course, and a short 
 introduction about myself.
 
+<img width="1000" height="437" alt="image" src="https://github.com/user-attachments/assets/5614103f-e383-4ba6-ac94-044946fc14db" />
+
+
 ### Step 2 - HTML Lists
 
 Here I created two types of lists. An ordered list is used for my hobbies, while 
 an unordered list is used for my favourite websites.
+
+<img width="480" height="430" alt="image" src="https://github.com/user-attachments/assets/739e2bb4-31a6-4742-9538-f31a6411f341" />
+
 
 ### Step 3 - Images and Links
 
 I added my photo to the webpage using the `<img>` tag and included alternative 
 text for the image. I also added two clickable links to useful websites.
 
+<img width="650" height="342" alt="image" src="https://github.com/user-attachments/assets/cb1f880d-9540-4cb5-ab60-8702efb0ff73" />
+
+
 ### Step 4 - HTML Button
 
 On this step I added a simple "Click Me" button using the `<button>` element. This helped 
 me practice adding interactive-looking elements to an HTML page.
+
+<img width="450" height="100" alt="image" src="https://github.com/user-attachments/assets/cd32eff6-ec37-4920-ba76-3c01f932ba0c" />
+
 
 **Screenshot of Part 1:**
 
@@ -68,6 +80,8 @@ I created a simple two-column table layout. The first column contains a Menu,
 and the second column contains the Main Content. This helped me understand 
 how tables can be used to organize content into different sections.
 
+<img width="740" height="620" alt="image" src="https://github.com/user-attachments/assets/8ce97a36-99f2-499e-b540-2445bab563d7" />
+
 ![layout](screenshots/image-3.png)
 
 ### Step 7 - Unicode Character References
@@ -75,12 +89,16 @@ how tables can be used to organize content into different sections.
 I added three emojis using Unicode character references instead of directly 
 writing the emoji characters. They are included in a short paragraph about 
 my mood today.
+<img width="1100" height="150" alt="image" src="https://github.com/user-attachments/assets/61e3778a-a136-48ba-b7dd-1e7a0bda454e" />
+
 ![emojis](screenshots/image-4.png)
 
 ### Step 8 - HTML Form
 
 I created a contact form with fields for Name, Email, Favorite Color, and a 
 Submit button. This gave me practice working with labels, inputs, and forms.
+<img width="750" height="650" alt="image" src="https://github.com/user-attachments/assets/54f6af32-1f60-4de1-9365-986eb5b1f2e4" />
+
 ![form](screenshots/image-5.png)
 
 ---
@@ -93,25 +111,39 @@ I created a separate `style.css` file and connected it to my HTML page.
 I used CSS to change the font, background color, text size, spacing, and 
 other visual properties.
 
+<img width="450" height="46" alt="image" src="https://github.com/user-attachments/assets/1af1c19f-0949-4a5d-b1c3-f8c6999a023a" />
+
+
 ### Step 10 - Inline CSS
 
 I used inline CSS on some paragraphs to change their text color. This helped 
 me understand how CSS can be applied directly to an HTML element.
 
+<img width="553" height="27" alt="image" src="https://github.com/user-attachments/assets/c697d9be-6a97-44d9-8f04-ebc6af5a3340" />
+
+
 ### Step 11 - Internal CSS
 
 I added a `<style>` section inside the `<head>` of the HTML document. 
 For example, I used it to change the font of the `h2` headings.
+<img width="400" height="161" alt="image" src="https://github.com/user-attachments/assets/819377e2-d14b-49c2-b061-9bdd264f2df0" />
+
 
 ### Step 12 - External CSS
 
 I connected my external `style.css` file using the `<link>` element. Most 
 of the styling of the webpage is done in this separate CSS file.
+<img width="450" height="57" alt="image" src="https://github.com/user-attachments/assets/68642184-f4ed-4169-b6ae-76611461973b" />
 
 ### Step 13 - CSS Selectors
 
 I practiced using different types of CSS selectors, including element 
 selectors, class selectors, and ID selectors.
+
+<img width="260" height="92" alt="image" src="https://github.com/user-attachments/assets/b3a69e00-f0b8-4a86-b2ae-c1011673d42c" />
+
+<img width="533" height="137" alt="image" src="https://github.com/user-attachments/assets/d6da9582-6e6f-4839-b419-b6fc32b9e9c6" />
+   
 
 ### Step 14 - Classes and IDs
 
@@ -143,6 +175,8 @@ I practiced the CSS box model by using `margin`, `border`, and `padding`.
 I applied these properties to my weekly schedule table to control its 
 spacing and borders.
 
+<img width="372" height="473" alt="image" src="https://github.com/user-attachments/assets/018270ea-fae2-4645-9286-17d2012d9c6a" />
+
 ![my schedule](screenshots/image-2.png)
 
 
@@ -152,6 +186,9 @@ I demonstrated three types of positioning: static, relative, and absolute.
 I created separate examples on the page so that the difference between 
 these positioning types can be seen.
 
+<img width="437" height="585" alt="image" src="https://github.com/user-attachments/assets/6bb2e52d-701e-40cc-8a8f-3179e58b69ce" />
+
+
 ![positioning](screenshots/image-8.png)
 
 ### Step 19 - CSS Sizing
@@ -159,11 +196,16 @@ these positioning types can be seen.
 I used different CSS sizing units: `px`, `%`, `em`, and `rem`. For example, 
 I used these units for text sizes and the width of the image.
 
+<img width="292" height="340" alt="image" src="https://github.com/user-attachments/assets/5895d93b-79ce-4c0f-bbac-aad057fc961e" />
+
+
 ### Step 20 - Float and Clear
 
 I created two blocks using `float: left` and `float: right`. I then used 
 `clear: both` so that the paragraph after them appears below the floated 
 elements.
+<img width="432" height="477" alt="image" src="https://github.com/user-attachments/assets/7f0db8f0-e95d-4c10-8fa5-bb1aa267cba9" />
+
 
 ![float and clear](screenshots/image-9.png)
 
