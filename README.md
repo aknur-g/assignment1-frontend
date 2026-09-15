@@ -43,8 +43,8 @@ me practice adding interactive-looking elements to an HTML page.
 
 **Screenshot of Part 1:**
 
-![introduction](image.png)
-![my photo and button](image-1.png)
+![introduction](screenshots/image.png)
+![my photo and button](screenshots/image-1.png)
 
 ---
 
@@ -58,7 +58,7 @@ I used table rows and cells to organize my university schedule.
 I also used `rowspan` to combine the days when there are two classes on the 
 same day.
 
-![my schedule](image-2.png)
+![my schedule](screenshots/image-2.png)
 
 ### Step 6 - Table Layout
 
@@ -66,20 +66,20 @@ I created a simple two-column table layout. The first column contains a Menu,
 and the second column contains the Main Content. This helped me understand 
 how tables can be used to organize content into different sections.
 
-![layout](image-3.png)
+![layout](screenshots/image-3.png)
 
 ### Step 7 - Unicode Character References
 
 I added three emojis using Unicode character references instead of directly 
 writing the emoji characters. They are included in a short paragraph about 
 my mood today.
-![emojis](image-4.png)
+![emojis](screenshots/image-4.png)
 
 ### Step 8 - HTML Form
 
 I created a contact form with fields for Name, Email, Favorite Color, and a 
 Submit button. This gave me practice working with labels, inputs, and forms.
-![form](image-5.png)
+![form](screenshots/image-5.png)
 
 ---
 
@@ -119,7 +119,7 @@ difference between reusable classes and unique IDs.
 
 **Screenshot of Part 3:**
 
-![css is working](image-7.png)
+![css is working](screenshots/image-7.png)
 ---
 
 ## Part 4 - Intermediate CSS
@@ -128,7 +128,7 @@ difference between reusable classes and unique IDs.
 
 I added a favicon to my webpage using a PNG image. The favicon appears in 
 the browser tab when the webpage is opened.
-![favicon](image-6.png)
+![favicon](screenshots/image-6.png)
 
 ### Step 16 - HTML Divs
 
@@ -141,7 +141,7 @@ I practiced the CSS box model by using `margin`, `border`, and `padding`.
 I applied these properties to my weekly schedule table to control its 
 spacing and borders.
 
-![my schedule](image-2.png)
+![my schedule](screenshots/image-2.png)
 
 
 ### Step 18 - CSS Positioning
@@ -150,7 +150,7 @@ I demonstrated three types of positioning: static, relative, and absolute.
 I created separate examples on the page so that the difference between 
 these positioning types can be seen.
 
-![positioning](image-8.png)
+![positioning](screenshots/image-8.png)
 
 ### Step 19 - CSS Sizing
 
@@ -163,7 +163,7 @@ I created two blocks using `float: left` and `float: right`. I then used
 `clear: both` so that the paragraph after them appears below the floated 
 elements.
 
-![float and clear](image-9.png)
+![float and clear](screenshots/image-9.png)
 
 ## Step 21 - GitHub and GitHub Pages
 
@@ -180,7 +180,7 @@ https://github.com/aknur-g/assignment1-frontend
 https://aknur-g.github.io/assignment1-frontend/
 
 
-![alt text](image-10.png)
+![alt text](screenshots/image-10.png)
 
 
 ## Conclusion
