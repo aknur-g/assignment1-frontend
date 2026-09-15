@@ -86,7 +86,9 @@ how tables can be used to organize content into different sections.
 
 <img width="560" height="400" alt="image" src="https://github.com/user-attachments/assets/20806d4b-f4fe-4078-8be5-d3a020dfd34c" />
 
-![layout](screenshots/image-3.png)
+
+<img width="1200" height="301" alt="image" src="https://github.com/user-attachments/assets/5a114b97-61be-4d9d-82d5-eac5459be514" />
+
 
 ### Step 7 - Unicode Character References
 
