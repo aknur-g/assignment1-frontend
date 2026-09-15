@@ -19,6 +19,8 @@ to improve the appearance and layout of the webpage.
 I created an `index.html` file and added the basic HTML structure with 
 `<!DOCTYPE html>`, `<html>`, `<head>`, and `<body>` elements. I also added 
 the page title "My First Webpage".
+<img width="942" height="501" alt="image" src="https://github.com/user-attachments/assets/c6851f0f-b876-472f-bd19-947cdc764483" />
+
 
 ### Step 1 - Text Structure
 
