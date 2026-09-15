@@ -72,6 +72,10 @@ I used table rows and cells to organize my university schedule.
 I also used `rowspan` to combine the days when there are two classes on the 
 same day.
 
+<img width="483" height="759" alt="image" src="https://github.com/user-attachments/assets/18b33720-4d00-4215-aae9-50766cb52d88" />
+<img width="597" height="518" alt="image" src="https://github.com/user-attachments/assets/7d8d336c-b06c-4dbf-a400-0289be32c7c4" />
+
+
 ![my schedule](screenshots/image-2.png)
 
 ### Step 6 - Table Layout
