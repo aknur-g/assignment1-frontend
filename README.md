@@ -19,7 +19,7 @@ to improve the appearance and layout of the webpage.
 I created an `index.html` file and added the basic HTML structure with 
 `<!DOCTYPE html>`, `<html>`, `<head>`, and `<body>` elements. I also added 
 the page title "My First Webpage".
-<img width="942" height="400" alt="image" src="https://github.com/user-attachments/assets/c6851f0f-b876-472f-bd19-947cdc764483" />
+<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/c6851f0f-b876-472f-bd19-947cdc764483" />
 
 
 ### Step 1 - Text Structure
@@ -28,7 +28,7 @@ I added different heading levels and paragraphs to organize the information
 on my webpage. The page includes my name, group, course, and a short 
 introduction about myself.
 
-<img width="1000" height="437" alt="image" src="https://github.com/user-attachments/assets/5614103f-e383-4ba6-ac94-044946fc14db" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/5614103f-e383-4ba6-ac94-044946fc14db" />
 
 
 ### Step 2 - HTML Lists
@@ -36,7 +36,7 @@ introduction about myself.
 Here I created two types of lists. An ordered list is used for my hobbies, while 
 an unordered list is used for my favourite websites.
 
-<img width="480" height="430" alt="image" src="https://github.com/user-attachments/assets/739e2bb4-31a6-4742-9538-f31a6411f341" />
+<img width="400" height="380" alt="image" src="https://github.com/user-attachments/assets/739e2bb4-31a6-4742-9538-f31a6411f341" />
 
 
 ### Step 3 - Images and Links
@@ -44,7 +44,7 @@ an unordered list is used for my favourite websites.
 I added my photo to the webpage using the `<img>` tag and included alternative 
 text for the image. I also added two clickable links to useful websites.
 
-<img width="650" height="342" alt="image" src="https://github.com/user-attachments/assets/cb1f880d-9540-4cb5-ab60-8702efb0ff73" />
+<img width="500" height="280" alt="image" src="https://github.com/user-attachments/assets/cb1f880d-9540-4cb5-ab60-8702efb0ff73" />
 
 
 ### Step 4 - HTML Button
@@ -52,7 +52,7 @@ text for the image. I also added two clickable links to useful websites.
 On this step I added a simple "Click Me" button using the `<button>` element. This helped 
 me practice adding interactive-looking elements to an HTML page.
 
-<img width="450" height="100" alt="image" src="https://github.com/user-attachments/assets/cd32eff6-ec37-4920-ba76-3c01f932ba0c" />
+<img width="350" height="80" alt="image" src="https://github.com/user-attachments/assets/cd32eff6-ec37-4920-ba76-3c01f932ba0c" />
 
 
 **Screenshot of Part 1:**
@@ -72,8 +72,8 @@ I used table rows and cells to organize my university schedule.
 I also used `rowspan` to combine the days when there are two classes on the 
 same day.
 
-<img width="483" height="759" alt="image" src="https://github.com/user-attachments/assets/18b33720-4d00-4215-aae9-50766cb52d88" />
-<img width="597" height="518" alt="image" src="https://github.com/user-attachments/assets/7d8d336c-b06c-4dbf-a400-0289be32c7c4" />
+<img width="400" height="580" alt="image" src="https://github.com/user-attachments/assets/18b33720-4d00-4215-aae9-50766cb52d88" />
+<img width="500" height="418" alt="image" src="https://github.com/user-attachments/assets/7d8d336c-b06c-4dbf-a400-0289be32c7c4" />
 
 
 ![my schedule](screenshots/image-2.png)
@@ -84,7 +84,7 @@ I created a simple two-column table layout. The first column contains a Menu,
 and the second column contains the Main Content. This helped me understand 
 how tables can be used to organize content into different sections.
 
-<img width="740" height="620" alt="image" src="https://github.com/user-attachments/assets/8ce97a36-99f2-499e-b540-2445bab563d7" />
+<img width="540" height="420" alt="image" src="https://github.com/user-attachments/assets/8ce97a36-99f2-499e-b540-2445bab563d7" />
 
 ![layout](screenshots/image-3.png)
 
@@ -93,7 +93,7 @@ how tables can be used to organize content into different sections.
 I added three emojis using Unicode character references instead of directly 
 writing the emoji characters. They are included in a short paragraph about 
 my mood today.
-<img width="1100" height="150" alt="image" src="https://github.com/user-attachments/assets/61e3778a-a136-48ba-b7dd-1e7a0bda454e" />
+<img width="900" height="100" alt="image" src="https://github.com/user-attachments/assets/61e3778a-a136-48ba-b7dd-1e7a0bda454e" />
 
 ![emojis](screenshots/image-4.png)
 
