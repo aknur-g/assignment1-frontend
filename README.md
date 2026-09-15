@@ -84,7 +84,7 @@ I created a simple two-column table layout. The first column contains a Menu,
 and the second column contains the Main Content. This helped me understand 
 how tables can be used to organize content into different sections.
 
-<img width="540" height="420" alt="image" src="https://github.com/user-attachments/assets/8ce97a36-99f2-499e-b540-2445bab563d7" />
+<img width="560" height="400" alt="image" src="https://github.com/user-attachments/assets/20806d4b-f4fe-4078-8be5-d3a020dfd34c" />
 
 ![layout](screenshots/image-3.png)
 
